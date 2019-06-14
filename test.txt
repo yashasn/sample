@@ -1,0 +1,2 @@
+exports makes the function available globally
+middleware
